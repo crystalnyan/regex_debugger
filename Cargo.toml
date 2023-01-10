@@ -1,0 +1,9 @@
+[package]
+name = "regex_debugger"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+regex = "1.7.0"
+fancy-regex = "0.10.0"
+pcre = "0.2.3"
